@@ -1,0 +1,7 @@
+export(get.matched)
+export(method.IPW.DR.core)
+export(method.MW.DR.core)
+export(method.MW.core)
+export(mirror.histogram)
+export(simulation.lee)
+export(test.balance)

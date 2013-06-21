@@ -1,0 +1,39 @@
+Package: mwps
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2013-04-24
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Collate:
+    'calc.MW.R'
+    'calc.ps.Xbeta.R'
+    'calc.ps.deriv.R'
+    'calc.ps.deriv2.R'
+    'colVec.R'
+    'correct.Y.model.R'
+    'correct.ps.model.R'
+    'eta.Ze.R'
+    'eta.deriv.Ze.R'
+    'eta0.deriv.fun.R'
+    'eta0.deriv.fun.approx.R'
+    'eta0.fun.R'
+    'eta0.fun.approx.R'
+    'eta1.deriv.fun.R'
+    'eta1.deriv.fun.approx.R'
+    'eta1.fun.R'
+    'eta1.fun.approx.R'
+    'g.fun.R'
+    'g.inv.R'
+    'g.inv.deriv.R'
+    'get.matched.R'
+    'method.IPW.DR.core.R'
+    'method.MW.DR.core.R'
+    'method.MW.core.R'
+    'mirror.histogram.R'
+    'rowVec.R'
+    'simulation.lee.R'
+    'solve.ab.R'
+    'test.balance.R'
